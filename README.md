@@ -79,6 +79,12 @@ python app.py
 ### Audio Result Demonstration
 ![Audio Result](https://github.com/KodeKV/Tridetect-Web-App-1/blob/main/Audio_result_gif.gif)
 
+#### Image Result Demonstration
+![Image Result](https://github.com/KodeKV/Tridetect-Web-App-1/blob/main/Image_result_gif.gif)
+
+#### Video Result Demonstration
+![Video Result](https://github.com/KodeKV/Tridetect-Web-App-1/blob/main/Video_result_gif.gif)
+
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
 
