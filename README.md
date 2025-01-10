@@ -2,7 +2,11 @@
 
 Tridetect is a comprehensive solution designed to detect deepfake content in audio, images, and videos. The project leverages advanced machine learning models to ensure the authenticity of digital media, helping to mitigate the risks posed by synthetic media manipulation.
 
-[Watch the video](https://github.com/KodeKV/Tridetect-Web-App/blob/main/Tridetect_recording_480p%20-%20Made%20with%20Clipchamp.mp4)
+
+Here is an animation of the Tridetect Web App:
+
+![Tridetect GIF](https://github.com/KodeKV/Tridetect-Web-App/blob/main/Tridetect_recording_480p-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
