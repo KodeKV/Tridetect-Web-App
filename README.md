@@ -77,6 +77,7 @@ python app.py
 
 ## Video Demonstration
 Watch the web application in action:
+
 ![Tridetect GIF](https://github.com/KodeKV/Tridetect-Web-App/blob/main/Tridetect_recording_480p-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
 
 ## License
