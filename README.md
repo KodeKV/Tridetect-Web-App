@@ -76,9 +76,8 @@ python app.py
 3. View classification results and confidence levels alongside media previews.
 
 ## Video Demonstration
-Watch the web application in action:
-
-![Tridetect GIF](https://github.com/KodeKV/Tridetect-Web-App/blob/main/Tridetect_recording_480p-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
+### Audio Result Demonstration
+![Audio Result](https://github.com/KodeKV/Tridetect-Web-App-1/blob/main/Audio_result_gif.gif)
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
