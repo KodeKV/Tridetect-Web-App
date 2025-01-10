@@ -75,7 +75,7 @@ python app.py
 2. The system processes the media and classifies it as "Real" or "Fake."
 3. View classification results and confidence levels alongside media previews.
 
-## Video Demonstration
+## Tridetect : Video Demonstration
 ### Audio Result Demonstration
 ![Audio Result](https://github.com/KodeKV/Tridetect-Web-App-1/blob/main/Audio_result_gif.gif)
 
